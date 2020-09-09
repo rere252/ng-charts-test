@@ -38,7 +38,7 @@ export class ChartComponent {
   ];
   public readonly monthLabels = [
     'Jaanuar',
-    'Veebr',
+    'Veebruar',
     'Märts',
     'Aprill',
     'Mai',
