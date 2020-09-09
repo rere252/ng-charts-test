@@ -60,6 +60,20 @@ export class ChartComponent {
             max: 160,
             stepSize: 40,
           },
+          gridLines: {
+            color: '#F0F',
+          },
+        },
+        {
+          position: 'right',
+          gridLines: {
+            color: '#00F',
+          },
+          ticks: {
+            max: 200,
+            min: 100,
+            stepSize: 50,
+          },
         },
       ],
     },
